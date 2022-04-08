@@ -1,6 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/16e3ab32-0955-4c60-ba45-9cfca05564f0/deploy-status)](https://app.netlify.com/sites/tiendalaptops/deploys)
+
 # Tienda virtual creada durante la cursada de React JS en CoderHouse
 
-Debajo estan los detalles básicos de la aplicación.
+Este es un Ecommerce, en el cual se simula una tienda de laptops.
 
 La navegación incluye: 
 + Home con productos
@@ -20,7 +22,7 @@ Tecnologías y librerías:
 
 ## Link
 
-La aplicación se puede visualizar en el siguiente [Link](https://lacasaca-ecommerce.netlify.app/)
+La aplicación se puede visualizar en el siguiente [Link](https://tiendalaptops.netlify.app/)
 
 ## Instalación
 
@@ -30,12 +32,6 @@ Despues de clonar el repositorio, ejecutar "npm install" para instalar las depen
 
     1. Ejecute "npm start" en su proyecto para iniciar.
     2. No son necesarias credenciales para ejecutarlo.
-
-
-## Tipo de aplicación
-
-Este es un Ecommerce, en el cual se simula una tienda de laptops.
-
 
 ## Detalles del proyecto
 
@@ -58,17 +54,17 @@ En el detalle de producto agregue un slider (Swiper) para mostrar varias fotos
 ## Capturas
 
 Home
-![image00](http://alejomann.com/coder/img/home.jpg)
+![image00](http://alejomann.com/coder/img/home.png)
 
 Detalle de producto
-![image00](http://alejomann.com/coder/img/detalle.jpg)
+![image00](http://alejomann.com/coder/img/detalle.png)
 
 Carrito
-![image00](http://alejomann.com/coder/img/carrito.jpg)
+![image00](http://alejomann.com/coder/img/carrito.png)
 
 Gracias
-![image00](http://alejomann.com/coder/img/gracias.jpg)
+![image00](http://alejomann.com/coder/img/gracias.png)
 
 Seguimiento
-![image00](http://alejomann.com/coder/img/seguimiento1.jpg)
-![image00](http://alejomann.com/coder/img/seguimiento2.jpg)
+![image00](http://alejomann.com/coder/img/seguimiento1.png)
+![image00](http://alejomann.com/coder/img/seguimiento2.png)
